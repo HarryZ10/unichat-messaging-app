@@ -6,3 +6,4 @@
 This is a code repository for the corresponding video tutorial.
 
 ## Made with HTML, CSS, and React, and several RESTful APIs
+https://chat-demo-js-mastery.netlify.app/
